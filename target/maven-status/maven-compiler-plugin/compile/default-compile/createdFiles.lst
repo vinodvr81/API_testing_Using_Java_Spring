@@ -1,10 +1,10 @@
-com/gorest/curd/service/package-info.class
 com/gorest/curd/controller/UserGorestController.class
-com/gorest/curd/config/package-info.class
 com/gorest/curd/model/package-info.class
-com/gorest/curd/service/UserServiceGoRest.class
 com/gorest/curd/controller/package-info.class
 com/gorest/curd/config/WebClientConfig.class
 com/gorest/curd/package-info.class
 com/gorest/curd/model/UserFromGorest.class
 com/gorest/curd/GorestClientApplication.class
+com/gorest/curd/service/package-info.class
+com/gorest/curd/config/package-info.class
+com/gorest/curd/service/UserServiceGoRest.class
